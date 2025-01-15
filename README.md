@@ -33,7 +33,7 @@ You can view a live demo of the project [here](https://the1fatkid.github.io/tail
    - A playful design for showcasing pet-related content.
 
 3. **TerminaLuxe Pricing Table**
-   - A modern pricing table built with responsive TailwindCSS components.
+   - A modern pricing table for a luxurious command line tool built with responsive TailwindCSS components.
 
 4. **Leaf & Brew**
    -
